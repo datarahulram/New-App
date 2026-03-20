@@ -16,6 +16,8 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 Open Link[https://guard-five.vercel.app/tracker]
+Team [Zen-VIX]
+Made By [Rahul Dangwal]
  with your browser to see the result.
 
 
