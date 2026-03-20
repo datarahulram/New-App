@@ -15,7 +15,8 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-Open [http://localhost:3000](https://guard-five.vercel.app/) with your browser to see the result.
+Open [http://localhost:3000]https://guard-five.vercel.app/tracker
+ with your browser to see the result.
 
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
@@ -32,6 +33,5 @@ To learn more, take a look at the following resources:
 ## For the live view click the link 
 
 https://guard-five.vercel.app/
-https://guard-five.vercel.app/tracker
 
 
