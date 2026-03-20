@@ -15,7 +15,7 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-Open [https://guard-five.vercel.app/tracker]
+Open [Link][https://guard-five.vercel.app/tracker]
  with your browser to see the result.
 
 
